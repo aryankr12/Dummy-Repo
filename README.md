@@ -1,6 +1,5 @@
 # Dummy-Repo
 
-WhiteHats Application
 Name : Aryan Kumar
 
 ## Why I Want to Join WhiteHats
